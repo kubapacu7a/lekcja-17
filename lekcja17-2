@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<title>lekcja 17</title>
+<meta charset="UTF=8"/>
+<meta name="keywords" content "lekcja17, html, style"/>
+<meta name="description" content "lekcja17"/>
+<meta name="author" content "Jakub Pacuła"/>
+<meta name="robots" content="all"/>
+</head>
+<body>
+    <p style=
+    "font-family: Verdana, Arial, sans-serif;
+    color: green;
+    font-size: 12px;
+    border: 2px solid yellow;
+    width: 40%;">
+        Ten tekst powinien być napisany zgodnie ze stylem zdefiniowanym dla akapitu, a więc czciona Verdana, 
+        jeżeli nie ma jej w komputerze, to czcionką Arial, jeżeli i tej czcionki nie ma, to inną czcionką bezszeryfową. 
+        Kolor czcionki powinien być zielony, rozmiar - 12 pikseli. Akapit powinien posiadać obramowanie narysowane linią ciągłą o grubości 2 piksele, koloru żółtego.
+    </p><br>
+
+    <p style=
+    "font-family: Verdana, Arial, sans-serif;
+    color: red;
+    font-size: 14px;
+    border: 3px solid orange;
+    width: 40%;">
+        Ten tekst powinien być napisany zgodnie ze stylem zdefiniowanym dla akapitu, a więc czciona Verdana, 
+        jeżeli nie ma jej w komputerze, to czcionką Arial, jeżeli i tej czcionki nie ma, to inną czcionką bezszeryfową. 
+        Kolor czcionki powinien być czerwony, rozmiar - 14 pikseli. Akapit powinien posiadać obramowanie narysowane linią ciągłą o grubości 3 piksele, koloru pomarańczowego.
+    </p><br>
+
+    <p style=
+    "font-family: Verdana, Arial, sans-serif;
+    color: blue;
+    font-size: 16px;
+    border: 4px solid lightblue;
+    width: 40%;">
+        Ten tekst powinien być napisany zgodnie ze stylem zdefiniowanym dla akapitu, a więc czciona Verdana, 
+        jeżeli nie ma jej w komputerze, to czcionką Arial, jeżeli i tej czcionki nie ma, to inną czcionką bezszeryfową. 
+        Kolor czcionki powinien być niebieski, rozmiar - 16 pikseli. Akapit powinien posiadać obramowanie narysowane linią ciągłą o grubości 4 piksele, koloru jasnoniebieskiego.
+    </p><br>
+</body>
+</html>
